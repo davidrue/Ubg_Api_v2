@@ -13,7 +13,7 @@ using Ubg_Api_v2.Models;
 
 namespace Ubg_Api_v2.Controllers
 {
-    //A comment
+    
     public class BankAccountsController : ApiController
     {
         private Ubg_Api_v2Context db = new Ubg_Api_v2Context();
